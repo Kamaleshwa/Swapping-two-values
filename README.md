@@ -18,10 +18,16 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+suriya=int(input())
+vijay=int(input())
+print("Swapped values are:",vijay,suriya)
+
 
 
 
 ## RESULT:
+![image](https://github.com/Kamaleshwa/Swapping-two-values/assets/144980199/e88a7f91-f925-423b-a998-572beeca4169)
+
 Thus the swapping of two values are successfully executed
 
 
